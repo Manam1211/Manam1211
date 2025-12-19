@@ -1,5 +1,4 @@
 <h1>Hi there 👋 </h1> 
-<hr>
 Hey — I’m Manam, a Shopify & WordPress developer.
 I build conversion-focused websites and stores that load fast, scale smoothly, and actually drive sales — not just look good.
 
