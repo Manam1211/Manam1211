@@ -1,4 +1,4 @@
-<img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/001ae659-901b-47bc-b8a1-0cae969cdee9" />## Hi there 👋
+Hi there 👋
 Hey — I’m Manam, a Shopify & WordPress developer.
 I build conversion-focused websites and stores that load fast, scale smoothly, and actually drive sales — not just look good.
 
